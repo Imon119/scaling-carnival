@@ -1,0 +1,42 @@
+body{
+	margin: -1%;
+	padding: 2px;
+	background: darkseagreen;
+}
+
+h1{
+   text-align: center;
+   font-family: Arial Black;
+   background-color: #aaa3bf;
+ }
+ 
+ table{
+    border-collapse: collapse;
+	text-align: center;
+	width: 80%;
+	margin: 0 auto;
+}
+.headings{
+	text-align: center;
+	background-color: #aaff80;
+}
+
+th{
+	border: 1px solid black;
+}
+tr{
+	border: 1px solid black;
+
+}
+td{
+	 border: 1px solid black;
+}
+.table-head{
+	background-color: #b3b3ff;
+}
+.color{
+	background-color: #99b9ff;
+	padding: 5px;
+}
+
+
